@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace RFID_Project
 {
-    public partial class UserControl1 : UserControl
+    public partial class balanceControl : UserControl
     {
-        public UserControl1()
+        public balanceControl()
         {
             InitializeComponent();
         }
